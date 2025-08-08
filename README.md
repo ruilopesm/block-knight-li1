@@ -1,7 +1,6 @@
 # Block Knight
 
-## Software Labs I | Laboratórios de Informática I
-## Grade: 18/20 :star:
+> 18/20 :star:
 
 This game was developed during the first semester of the Software Engineering degree @ University of Minho.
 
